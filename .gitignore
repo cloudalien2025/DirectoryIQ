@@ -1,0 +1,30 @@
+# dependencies
+node_modules/
+
+# next build
+.next/
+out/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# env / secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.crt
+
+# test / artifacts
+playwright-report/
+artifacts/
+coverage/
+
+# misc
+.DS_Store
+*.tsbuildinfo
