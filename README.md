@@ -42,3 +42,5 @@ npm run build
 
 - This repository is focused on DirectoryIQ workflows.
 - Secrets and environment files are excluded from version control.
+
+Temporary validation note: Pull requests are validated by required CI checks.
