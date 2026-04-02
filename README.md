@@ -1,6 +1,6 @@
 # DirectoryIQ
 
-Standalone extraction of the DirectoryIQ product from the iBrains monorepo.
+Standalone public repository for DirectoryIQ.
 
 ## Requirements
 
@@ -40,5 +40,5 @@ npm run build
 
 ## Notes
 
-- This repo intentionally excludes non-DirectoryIQ product surfaces.
+- This repository is focused on DirectoryIQ workflows.
 - Secrets and environment files are excluded from version control.
